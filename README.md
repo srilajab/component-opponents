@@ -6,7 +6,7 @@ Example repository introducing students to React Components.
 
 - Create a new React application using `create-react-app`
 
-> _Optionally_, you may `rm yarn.lock` and then `npm install` if you'd rather use NPM. 
+> _Optionally_, you may `rm yarn.lock` and then `npm install` if you'd rather use NPM.
 
 - Delete the following files:
   * `src/App.test.js`
@@ -40,6 +40,8 @@ Example repository introducing students to React Components.
   ReactDOM.render(<App />, document.getElementById('root'));
   registerServiceWorker();
   ```
+
+- Run `npm start` and make sure your page loads.
 
 ## Instructions
 
@@ -89,4 +91,3 @@ Example repository introducing students to React Components.
     { name: 'Snoke', description: 'Snoke, a Force-sensitive humanoid male alien, was the Supreme Leader of the First Order and a powerful practitioner of the dark side of the Force.', imageUrl: 'https://vignette.wikia.nocookie.net/starwars/images/e/ed/Snoke_TLJ.png/revision/latest?cb=20180105001738' }
   ]
   ```
-
