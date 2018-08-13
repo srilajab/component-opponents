@@ -78,7 +78,7 @@ Example repository introducing students to React Components.
   </div>
   ```
 
-- [ ] Create a `Header` functional component that includes just the `.jumbtron` section.
+- [ ] Create a `Header` functional component that includes just the `.jumbotron` section.
 
 - [ ] Create a `Villain` functional component that returns a single `.card`. For now, just include some of the existing dummy data.
 
